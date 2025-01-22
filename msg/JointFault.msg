@@ -1,0 +1,11 @@
+bool overload
+bool uncalibrated
+bool over_current_phase_a
+bool over_current_phase_b
+bool over_current_phase_c
+bool over_voltage
+bool under_voltage
+bool driver_chip
+bool over_temperature
+bool magnetic_code_failure
+bool hall_coded_faults
